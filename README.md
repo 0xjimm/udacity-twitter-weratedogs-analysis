@@ -109,3 +109,9 @@ Create a __300-600 word written report__ called `wrangle_report.pdf` or `wrangle
 Create a __250-word-minimum written report__ called `act_report.pdf` or `act_report.html` that communicates the insights and displays the visualization(s) produced from my wrangled data. This is to be framed as an external document, like a blog post or magazine article, for example.
 
 Both of these documents can be created in separate Jupyter Notebooks using the Markdown functionality of Jupyter Notebooks, then downloading those notebooks as PDF files or HTML files (see image below). I might prefer to use a word processor like Google Docs or Microsoft Word, however.
+
+## References
+
+1. [Downloading Files from URLs in Python](https://www.codementor.io/aviaryan/downloading-files-from-urls-in-python-77q3bs0un)
+2. [JSON Dump to Txt](https://stackoverflow.com/questions/17055117/python-json-dump-append-to-txt-with-each-variable-on-new-line)
+3. [Reading and Writing JSON to a File in Python](https://stackabuse.com/reading-and-writing-json-to-a-file-in-python/)
