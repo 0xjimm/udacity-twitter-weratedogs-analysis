@@ -116,3 +116,4 @@ Both of these documents can be created in separate Jupyter Notebooks using the M
 2. [JSON Dump to Txt](https://stackoverflow.com/questions/17055117/python-json-dump-append-to-txt-with-each-variable-on-new-line)
 3. [Reading and Writing JSON to a File in Python](https://stackabuse.com/reading-and-writing-json-to-a-file-in-python/)
 4. [Construction Pandas DataFrame from Dictionary](https://stackoverflow.com/questions/17839973/constructing-pandas-dataframe-from-values-in-variables-gives-valueerror-if-usi)
+5. [Merging Certain Columns in Pandas](https://stackoverflow.com/questions/17978133/python-pandas-merge-only-certain-columns)
