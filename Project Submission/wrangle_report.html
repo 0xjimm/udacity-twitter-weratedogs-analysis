@@ -13152,7 +13152,6 @@ div#notebook {
 <li>.sum()</li>
 </ul>
 <p>The quality issues were categorized by completeness, validity, accuracy, and consistency.  The tidiness issues were categorized by tidy data principles.</p>
-<p>Of the quality and tidiness issues identified, only issues #3 and #11 were unresolved.</p>
 
 </div>
 </div>
@@ -13163,7 +13162,6 @@ div#notebook {
 <h3 id="Quality-Issues">Quality Issues<a class="anchor-link" href="#Quality-Issues">&#182;</a></h3><h4 id="Completeness">Completeness<a class="anchor-link" href="#Completeness">&#182;</a></h4><ol>
 <li><code>df_ae</code>: Missing and incorrect dog names</li>
 <li><code>df_ae</code>: Benebop Cumberfloof not identified as floofer</li>
-<li><code>df_tj</code>: Extracting nested dictionaries/lists from JSON creates messy data. (<em>not resolved</em>)</li>
 </ol>
 <h4 id="Validity">Validity<a class="anchor-link" href="#Validity">&#182;</a></h4><ol>
 <li><code>df_ae</code>: Retweets may capture the same dog twice with a different tweet_id</li>
@@ -13172,12 +13170,10 @@ div#notebook {
 </ol>
 <h4 id="Accuracy">Accuracy<a class="anchor-link" href="#Accuracy">&#182;</a></h4><ol>
 <li><code>df_ae</code>: Rating numerator and denominator have many outliers</li>
-<li><code>df_ae</code>: Rating denominator catches other <code>/</code> in different context: such as multiple dogs, halves, 24/7, dates, etc. (<em>not resolved</em>)</li>
 </ol>
 <h4 id="Consistency">Consistency<a class="anchor-link" href="#Consistency">&#182;</a></h4><ol>
 <li><code>df_ae</code>: Timestamp column is a string</li>
 <li><code>df_ae</code>: Source displays url</li>
-<li><code>df_ip</code>: Nondescriptive columns (<em>not resolved</em>)</li>
 </ol>
 <h3 id="Tidiness-Issues">Tidiness Issues<a class="anchor-link" href="#Tidiness-Issues">&#182;</a></h3><h4 id="Each-variable-forms-a-column">Each variable forms a column<a class="anchor-link" href="#Each-variable-forms-a-column">&#182;</a></h4><ol>
 <li><code>df_ip</code>: Four columns for stages of dog (doggo, pupper, puppo, floofer) should be one category column</li>
